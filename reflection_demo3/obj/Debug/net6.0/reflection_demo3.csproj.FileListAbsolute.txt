@@ -1,0 +1,15 @@
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\obj\Debug\net6.0\reflection_demo3.csproj.AssemblyReference.cache
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\obj\Debug\net6.0\reflection_demo3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\obj\Debug\net6.0\reflection_demo3.AssemblyInfoInputs.cache
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\obj\Debug\net6.0\reflection_demo3.AssemblyInfo.cs
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\obj\Debug\net6.0\reflection_demo3.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\bin\Debug\net6.0\reflection_demo3.exe
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\bin\Debug\net6.0\reflection_demo3.deps.json
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\bin\Debug\net6.0\reflection_demo3.runtimeconfig.json
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\bin\Debug\net6.0\reflection_demo3.dll
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\bin\Debug\net6.0\reflection_demo3.pdb
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\obj\Debug\net6.0\reflection_demo3.dll
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\obj\Debug\net6.0\refint\reflection_demo3.dll
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\obj\Debug\net6.0\reflection_demo3.pdb
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\obj\Debug\net6.0\reflection_demo3.genruntimeconfig.cache
+D:\C_Sharp_Programing\E_box\i_design\reflection_demo3\obj\Debug\net6.0\ref\reflection_demo3.dll
