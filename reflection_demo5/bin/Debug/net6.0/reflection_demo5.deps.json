@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "reflection_demo5/1.0.0": {
+        "runtime": {
+          "reflection_demo5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "reflection_demo5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

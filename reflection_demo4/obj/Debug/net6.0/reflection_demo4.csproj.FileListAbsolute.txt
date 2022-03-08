@@ -1,0 +1,15 @@
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\obj\Debug\net6.0\reflection_demo4.csproj.AssemblyReference.cache
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\obj\Debug\net6.0\reflection_demo4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\obj\Debug\net6.0\reflection_demo4.AssemblyInfoInputs.cache
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\obj\Debug\net6.0\reflection_demo4.AssemblyInfo.cs
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\obj\Debug\net6.0\reflection_demo4.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\bin\Debug\net6.0\reflection_demo4.exe
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\bin\Debug\net6.0\reflection_demo4.deps.json
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\bin\Debug\net6.0\reflection_demo4.runtimeconfig.json
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\bin\Debug\net6.0\reflection_demo4.dll
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\bin\Debug\net6.0\reflection_demo4.pdb
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\obj\Debug\net6.0\reflection_demo4.dll
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\obj\Debug\net6.0\refint\reflection_demo4.dll
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\obj\Debug\net6.0\reflection_demo4.pdb
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\obj\Debug\net6.0\reflection_demo4.genruntimeconfig.cache
+D:\C_Sharp_Programing\E_box\console_projects\DotNet_Console_Projects\reflection_demo4\obj\Debug\net6.0\ref\reflection_demo4.dll
