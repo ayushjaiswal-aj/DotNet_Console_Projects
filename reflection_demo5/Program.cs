@@ -46,27 +46,61 @@ public class Program
     {
         Console.WriteLine("Menu\n1.int\n2.double\n3.string\n4.Program");
         int choice = Convert.ToInt32(Console.ReadLine());
-	    //Fill your code here
+        //Fill your code here
         switch (choice)
         {
-            
             case 1:
-                Module m = int.GetType().Module;
-                Console.WriteLine($"{m}");
+                try
+                {
+                    Type type = typeof(int);
+                    Assembly assembly = Assembly.GetAssembly(type);
+                    Console.WriteLine($"{assembly.FullName}");
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e);
+                }
                 break;
-            
+
             case 2:
-                Console.WriteLine($"");
+                try
+                {
+                    Type type = typeof(double);
+                    Assembly assembly = Assembly.GetAssembly(type);
+                    Console.WriteLine($"{assembly.FullName}");
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e);
+                }
                 break;
-            
+
             case 3:
-                Console.WriteLine($"");
+                try
+                {
+                    Type type = typeof(string);
+                    Assembly assembly = Assembly.GetAssembly(type);
+                    Console.WriteLine($"{assembly.FullName}");
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e);
+                }
                 break;
-            
+
             case 4:
-                Console.WriteLine($"");
+                try
+                {
+                    Type type = typeof(Program);
+                    Assembly assembly = Assembly.GetAssembly(type);
+                    Console.WriteLine($"{assembly.FullName}");
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e);
+                }
                 break;
-            
+
             default:
                 Console.WriteLine("Invalid input");
                 break;
