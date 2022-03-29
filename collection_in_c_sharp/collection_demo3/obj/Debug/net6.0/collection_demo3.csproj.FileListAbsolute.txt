@@ -1,0 +1,15 @@
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\bin\Debug\net6.0\collection_demo3.exe
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\bin\Debug\net6.0\collection_demo3.deps.json
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\bin\Debug\net6.0\collection_demo3.runtimeconfig.json
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\bin\Debug\net6.0\collection_demo3.dll
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\bin\Debug\net6.0\collection_demo3.pdb
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\obj\Debug\net6.0\collection_demo3.csproj.AssemblyReference.cache
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\obj\Debug\net6.0\collection_demo3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\obj\Debug\net6.0\collection_demo3.AssemblyInfoInputs.cache
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\obj\Debug\net6.0\collection_demo3.AssemblyInfo.cs
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\obj\Debug\net6.0\collection_demo3.csproj.CoreCompileInputs.cache
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\obj\Debug\net6.0\collection_demo3.dll
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\obj\Debug\net6.0\refint\collection_demo3.dll
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\obj\Debug\net6.0\collection_demo3.pdb
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\obj\Debug\net6.0\collection_demo3.genruntimeconfig.cache
+D:\C_sharp_programing\DotNet_console_applications\collection_in_c_sharp\collection_demo3\obj\Debug\net6.0\ref\collection_demo3.dll

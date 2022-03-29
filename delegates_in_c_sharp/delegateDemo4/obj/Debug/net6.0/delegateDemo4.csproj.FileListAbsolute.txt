@@ -1,0 +1,15 @@
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\bin\Debug\net6.0\delegateDemo4.exe
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\bin\Debug\net6.0\delegateDemo4.deps.json
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\bin\Debug\net6.0\delegateDemo4.runtimeconfig.json
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\bin\Debug\net6.0\delegateDemo4.dll
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\bin\Debug\net6.0\delegateDemo4.pdb
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\obj\Debug\net6.0\delegateDemo4.csproj.AssemblyReference.cache
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\obj\Debug\net6.0\delegateDemo4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\obj\Debug\net6.0\delegateDemo4.AssemblyInfoInputs.cache
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\obj\Debug\net6.0\delegateDemo4.AssemblyInfo.cs
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\obj\Debug\net6.0\delegateDemo4.csproj.CoreCompileInputs.cache
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\obj\Debug\net6.0\delegateDemo4.dll
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\obj\Debug\net6.0\refint\delegateDemo4.dll
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\obj\Debug\net6.0\delegateDemo4.pdb
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\obj\Debug\net6.0\delegateDemo4.genruntimeconfig.cache
+D:\C_sharp_programing\DotNet_console_applications\delegates_in_c_sharp\delegateDemo4\obj\Debug\net6.0\ref\delegateDemo4.dll

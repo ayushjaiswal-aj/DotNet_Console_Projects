@@ -1,0 +1,15 @@
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\bin\Debug\net6.0\inheritance_demo10.exe
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\bin\Debug\net6.0\inheritance_demo10.deps.json
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\bin\Debug\net6.0\inheritance_demo10.runtimeconfig.json
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\bin\Debug\net6.0\inheritance_demo10.dll
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\bin\Debug\net6.0\inheritance_demo10.pdb
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\obj\Debug\net6.0\inheritance_demo10.csproj.AssemblyReference.cache
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\obj\Debug\net6.0\inheritance_demo10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\obj\Debug\net6.0\inheritance_demo10.AssemblyInfoInputs.cache
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\obj\Debug\net6.0\inheritance_demo10.AssemblyInfo.cs
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\obj\Debug\net6.0\inheritance_demo10.csproj.CoreCompileInputs.cache
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\obj\Debug\net6.0\inheritance_demo10.dll
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\obj\Debug\net6.0\refint\inheritance_demo10.dll
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\obj\Debug\net6.0\inheritance_demo10.pdb
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\obj\Debug\net6.0\inheritance_demo10.genruntimeconfig.cache
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\inheritance_demo10\obj\Debug\net6.0\ref\inheritance_demo10.dll

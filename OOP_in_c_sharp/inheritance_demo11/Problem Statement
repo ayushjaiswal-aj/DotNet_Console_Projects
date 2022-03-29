@@ -1,0 +1,60 @@
+Abstract Classes – Inheritance Cargo and Commercial service airport
+ 
+Airports Authority of India (AAI) aims to register the details of all the airports in India. For security reasons, they wanted to have an account of the number of passengers travelling each day and for the cargo , the number of cargo units shipped. Airports have a unique IATA (Internatinal Air Transport Association) Airport Code.
+ 
+[Strictly adhere to the Object Oriented Specifications mentioned in the problem. Use the same Class names, attribute names and method names specified here. Use appropriate naming conventions for properties. Create all classes in separate files.]
+ 
+Create an  abstract class named Airport
+Include the following private data members / attributes:
+Data Type	Variable
+string	_iataAirportCode
+string	_name
+string	_city
+int	_noOfFlights
+Include appropriate properties.
+Include a 4-argument constructor, the order of the arguments is  _iataAirportCode , _name ,_city,_noOfFlights  .
+Include an abstract method named calculate(), The return type of this method is int.
+
+Create a class named CommercialServiceAirport that extends Airport 
+Include the following private data members / attributes
+Data Type	Variable
+int	_noOfpassengersperflight
+Include appropriate properties.
+Include a 5-argument constructor, the order of the arguments is _iataAirportCode , _name ,_city,_noOfFlights,_noOfpassengersperflight
+ 
+Override the abstract method calculate() defined in the Airport class
+Method name	Description
+int calculate()	In this method is of return type int and prints the number of passengers travelling per day(number of passengers travelling / day=  number of flights per day*number of passengers travelling in each flight).
+ 
+Create a class named CargoServiceAirport that extends Airport
+Include the following private data members / attributes
+Data Type	Variable
+int	_noOfcargoUnitsperflight 
+Include appropriate properties.
+Include a 5-argument constructor, the order of the arguments is _iataAirportCode , _name ,_city,_noOfFlights,_noOfcargoUnitsperflight
+ 
+Override the abstract method calculate() defined in the Airport class
+Method name	Description
+int calculate()	this method is of return type int and prints the number of passengers travelling per day(number of cargo units shipped / day=  number of flights per day*number of cargo units shipped) 
+ 
+Input and Output Format:
+Refer sample input and output for formatting specifications.
+All text in bold corresponds to input and the rest corresponds to output.
+ 
+Sample Input and Output:
+Enter the name
+Kempegowda International Airport
+Enter the city
+Bangalore
+Enter the number of flights per day
+4
+Enter the number of passengers travelling in each flight
+60
+Enter the number of cargo units shipped in each flight
+50
+Airport Details
+Airport Name : Kempegowda International Airport
+Location : Bangalore
+Number of flights per day : 4
+Number of passengers travelling in each flight per day : 60
+Number of cargo units shipped in each flight per day : 50

@@ -1,0 +1,15 @@
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\bin\Debug\net6.0\Inheritance_demo6.exe
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\bin\Debug\net6.0\Inheritance_demo6.deps.json
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\bin\Debug\net6.0\Inheritance_demo6.runtimeconfig.json
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\bin\Debug\net6.0\Inheritance_demo6.dll
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\bin\Debug\net6.0\Inheritance_demo6.pdb
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\obj\Debug\net6.0\Inheritance_demo6.csproj.AssemblyReference.cache
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\obj\Debug\net6.0\Inheritance_demo6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\obj\Debug\net6.0\Inheritance_demo6.AssemblyInfoInputs.cache
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\obj\Debug\net6.0\Inheritance_demo6.AssemblyInfo.cs
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\obj\Debug\net6.0\Inheritance_demo6.csproj.CoreCompileInputs.cache
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\obj\Debug\net6.0\Inheritance_demo6.dll
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\obj\Debug\net6.0\refint\Inheritance_demo6.dll
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\obj\Debug\net6.0\Inheritance_demo6.pdb
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\obj\Debug\net6.0\Inheritance_demo6.genruntimeconfig.cache
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\Inheritance_demo6\obj\Debug\net6.0\ref\Inheritance_demo6.dll

@@ -1,0 +1,103 @@
+Customer Details
+
+Assuming we have learnt a good amount of Structured Programming 
+(Variables, Conditional Statements, Looping Constructs, Arrays) in C#, 
+Its time to get Hands-on with Object Oriented programming thus 
+harnessing the real power of C#. 
+
+You have been selected as a trainee in one of the well-known software majors. 
+To evaluate and expose you to real world projects, the company has given you a 
+requirement document of Phone Usage Tracking &  Bill Generation application 
+and a series of problems to program the application in a step-by-step manner. 
+Go ahead and solve the problems and learn C# along the way !!!
+
+The first step is to create a class. A Class is a container 
+to hold data members & member functions, representing a template of 
+real-world entity.
+
+ 
+
+Write a program to create and display customer details.
+
+ 
+
+[Note :  Strictly adhere to the object-oriented 
+specifications given as a part of the problem statement.
+Follow the naming conventions as mentioned. 
+Create separate classes in separate files.]
+
+Consider a class named Customer with the following private attributes
+
+Data Type	Attributes
+string	_customerName
+string	_customerEmail
+string	_customerType
+string	_customerAddress
+Include appropriate getters and setters.
+Include default and parameterized constructor for the class.
+Prototype for the Parameterized Constructor 
+public Customer (string _customerName,string _customerEmail,string _customerType,string _customerAddress)
+
+
+Define the following method in class Customer
+
+Method Name
+
+Description
+
+DisplayDetails()
+
+This method is used to display the details of the customer in given format.
+
+Consider a class Program to include the Main method.
+
+In the Main method
+
+Obtain the details of the customer.
+
+Create an object for Customer class
+
+Call the method DisplayDetails() in Customer class
+
+ 
+Example conventions to create getters and setters of the class Customer
+  private string _customerName;
+  public string CustomerName {
+      get{
+         return this._customerName;
+      }
+      set{
+         this._customerName = value;
+       }
+ }
+
+The link to download the template code is given below
+Code Template
+ 
+
+
+Input and Output Format:
+Refer sample input and output for formatting specifications.
+ 
+
+[All text in bold corresponds to the input and the rest corresponds to output.]
+
+ 
+
+Sample Input and Output 1:
+
+Enter the Customer Details
+Enter the name
+Steffan
+Enter the email
+steffan@mail.com
+Enter the type
+Domestic
+Enter the location
+India
+
+Customer Details
+Name: Steffan
+E-mail: steffan@mail.com
+Type: Domestic
+Location: India

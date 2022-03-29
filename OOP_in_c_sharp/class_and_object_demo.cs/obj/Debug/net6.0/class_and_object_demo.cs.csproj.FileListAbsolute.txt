@@ -1,0 +1,15 @@
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\bin\Debug\net6.0\class_and_object_demo.cs.exe
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\bin\Debug\net6.0\class_and_object_demo.cs.deps.json
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\bin\Debug\net6.0\class_and_object_demo.cs.runtimeconfig.json
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\bin\Debug\net6.0\class_and_object_demo.cs.dll
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\bin\Debug\net6.0\class_and_object_demo.cs.pdb
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\obj\Debug\net6.0\class_and_object_demo.cs.csproj.AssemblyReference.cache
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\obj\Debug\net6.0\class_and_object_demo.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\obj\Debug\net6.0\class_and_object_demo.cs.AssemblyInfoInputs.cache
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\obj\Debug\net6.0\class_and_object_demo.cs.AssemblyInfo.cs
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\obj\Debug\net6.0\class_and_object_demo.cs.csproj.CoreCompileInputs.cache
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\obj\Debug\net6.0\class_and_object_demo.cs.dll
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\obj\Debug\net6.0\refint\class_and_object_demo.cs.dll
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\obj\Debug\net6.0\class_and_object_demo.cs.pdb
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\obj\Debug\net6.0\class_and_object_demo.cs.genruntimeconfig.cache
+D:\C_sharp_programing\DotNet_console_applications\OOP_in_c_sharp\class_and_object_demo.cs\obj\Debug\net6.0\ref\class_and_object_demo.cs.dll
